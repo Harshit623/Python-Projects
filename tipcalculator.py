@@ -17,5 +17,3 @@ final_amount = round(split_bill, 2)
 print(f"Each person should pay : {final_amount} ")
  
 
-# alphabet = input("Abcd")
-# print(alphabet)
